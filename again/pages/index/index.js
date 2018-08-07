@@ -1,4 +1,5 @@
 // pages/index/index.js
+const mRequest = require("../../utils/base");
 Page({
 
   /**
